@@ -207,6 +207,7 @@ Making it beautiful, usable, and delightful.
 | 🌈 [Inclusive Visuals Specialist](design/design-inclusive-visuals-specialist.md) | Representation, bias mitigation, authentic imagery | Generating culturally accurate AI images and video |
 | 🎭 [Persona Walkthrough Specialist](design/design-persona-walkthrough.md) | Persona-driven cognitive walkthroughs | Simulating user reactions and friction at each scroll position |
 | 🧱 [UI Finish-Gate Reviewer](design/design-ui-finish-gate-reviewer.md) | Anti-generic UI finish gate | Catching interchangeable UI before ship via evidence + a written design contract |
+| 🖨️ [Print & Flyer Designer](design/design-print-flyer-designer.md) | Press-ready flyers, CMYK prepress, bleed & paper | Turning a brief into a print-shop-ready PDF for small businesses |
 
 ### 💰 Paid Media Division
 
